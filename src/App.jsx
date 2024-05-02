@@ -8,10 +8,12 @@ const App = () => {
   return (
     <div>
       <Navbar />
-      <Routes>
+      <Hero />
+      <About />
+      {/* <Routes>
         <Route path='/' element={<Hero />} />
         <Route path='/about' element={<About />} />
-      </Routes>
+      </Routes> */}
     </div>
   )
 }

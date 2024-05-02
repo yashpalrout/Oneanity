@@ -12,7 +12,7 @@ const Hero = () => {
                 Join the craziest <span className=''>ideathon</span> ever!</h1>
             <div className='hero-connect'>Register</div>
             <div className='glow1'></div>
-            <img src={profile_img} alt="" />
+            {/* <img src={profile_img} alt="" /> */}
             <div className='intro'>
                 <div className='intro-heading'>
                     <h1>ideathon</h1>
@@ -24,7 +24,7 @@ const Hero = () => {
                         opportunities and ideate the <span>most viable solution</span> .</p>
                 </div>
             </div>
-            <Contact />              
+            {/* <Contact />               */}
         </div >
     )
 }

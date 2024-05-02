@@ -1,10 +1,12 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
-body{
-  height: 100vh;
-  background: black;
+
+body {
+  /* height: 100vh; */
+  background: linear-gradient(135deg, #001e3b 0%, #6a1b9a 50%, #a76700 100%);
   color: white;
   font-family: outfit;
+  overflow-x: hidden;
 }
