@@ -10,15 +10,15 @@ const Contact = () => {
                 <h2>Get in touch</h2>
                 <div className='contact-section'>
                     <div className='contact-left'>
-                    {/* <h1> let's talk</h1> */}
+                        {/* <h1> let's talk</h1> */}
                         <div className='contact-details'>
                             <div className='contact-detail'>
-                                <img src={mail} alt='' />
+                                {/* <img src={mail} alt='' /> */}
                                 <p>oneanity@gmail.com</p>
                             </div>
 
                             <div className='contact-detail'>
-                                <img src={phone} alt='' />
+                                {/* <img src={phone} alt='' /> */}
                                 <p>+91-9337283670</p>
                             </div>
                         </div>

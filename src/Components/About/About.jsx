@@ -11,9 +11,10 @@ const About = () => {
     return (
         <div className='about'>
             <div className='about-title'>
+
                 <h1>We're passionate students igniting innovation
                     in Dhenkanal with the <span>first-ever</span> citywide ideathon! </h1>
-                <div className='all-images'>
+                {/* <div className='all-images'>
                     <div className='one-img'>
 
                         <img src={yashpal} alt="" />
@@ -35,7 +36,7 @@ const About = () => {
 
                         <img src={jasmin} alt="" />
                         <p>Jasmin</p></div>
-                </div>
+                </div> */}
             </div>
             <Contact />
             <div className='glow2'></div>
